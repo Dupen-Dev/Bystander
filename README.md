@@ -162,7 +162,7 @@
             Jika di lingkungan sekitar terbiasa dengan sikap *jangan ikut campur urusan orang*, seseorang akan merasa sungkan atau takut dicap aneh jika peduli. Lingkungan yang kurang mencontohkan kepedulian membuat seseorang semakin enggan bertindak, walaupun hatinya ingin menolong.
         </li>
     <div class="img-container" title="Cartoon: I thought you'd do it">
-        <img src="image/i thought.JPG" width="400px" height"200px"/>
+        <img src="image/i thought.jpg" width="400px" height"200px"/>
     </div>
     </ol>
 
